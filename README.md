@@ -4,6 +4,10 @@
     <p>A Social Web Platform to Publish and Read Comics Articles</p>
 </div>
 
+## Open Source Code
+- [API](https://github.com/pedrjose/earth-1): You can check the JavaScript code;
+- [SPA](https://github.com/pedrjose/earth1-spa): You can check the React code.
+
 <p align="center">
   <img src="./screen-1.png" />
   <img src="./screen-2.png" />
@@ -33,7 +37,3 @@
 - Network access;
 - Installed browser;
 - Minimum screen width of 1024.
-
-## Open Source
-- [API](https://github.com/pedrjose/earth-1): You can check the JavaScript code;
-- [SPA](https://github.com/pedrjose/earth1-spa): You can check the React code.
