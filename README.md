@@ -5,8 +5,8 @@
 </div>
 
 ## Open Source Code
-- [API](https://github.com/pedrjose/earth-1): You can check the JavaScript code;
-- [SPA](https://github.com/pedrjose/earth1-spa): You can check the React code.
+- [API](https://github.com/pedrjose/earth-1): You can check the back-end code;
+- [SPA](https://github.com/pedrjose/earth1-spa): You can check the front-end code.
 
 <p align="center">
   <img src="./screen-1.png" />
