@@ -4,9 +4,9 @@
     <p>A Social Web Platform to Publish and Read Comics Articles</p>
 </div>
 
-## Open Source Code
-- [API](https://github.com/pedrjose/earth-1): You can check the back-end code;
-- [SPA](https://github.com/pedrjose/earth1-spa): You can check the front-end code.
+## Code
+- [API](https://github.com/pedrjose/earth-1): Back-end code repository;
+- [SPA](https://github.com/pedrjose/earth1-spa): Front-end code repository.
 
 <p align="center">
   <img src="./screen-1.png" />
